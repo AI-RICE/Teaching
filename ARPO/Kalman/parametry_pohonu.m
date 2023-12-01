@@ -1,0 +1,12 @@
+	Rs=0.28;     % Resistance
+	Ls=0.003465; % inductance
+	Ld=0.003465; % inductance
+	Lq=0.003;    % inductance
+	Fmag= 0.1989;% Magnetic??
+	kp = 1.5;
+	p = 4.0;
+	J = 0.04;   
+	Bf = 0.0;    % Bearing Friction?
+	Uc = 200.0;  % ???
+	DT = 3e-6;   % Dead Time
+	Dt = 0.000125;
